@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="CSS\" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xcopy /y /e /i &quot;$(SolutionDir)$(SolutionName)\Content\*&quot; &quot;$(ProjectDir)bin\$(ConfigurationName)\BuildOutput\content\Content\&quot;&#xD;&#xA;xcopy /y /e /i &quot;$(SolutionDir)$(SolutionName)\Content\*&quot; &quot;$(ProjectDir)bin\$(ConfigurationName)\BuildOutput\contentFiles\Content\&quot;&#xD;&#xA;xcopy /y /i &quot;$(SolutionDir)LICENSE.md&quot; &quot;$(ProjectDir)bin\$(ConfigurationName)\BuildOutput\&quot;&#xD;&#xA;xcopy /y /i &quot;$(SolutionDir)Clymate.Scaffolding.Sass.nuspec&quot; &quot;$(ProjectDir)bin\$(ConfigurationName)\BuildOutput\&quot;" />
+  </Target>
+
+</Project>

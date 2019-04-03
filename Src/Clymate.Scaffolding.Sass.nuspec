@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Clymate.Scaffolding.Sass</id>
+    <version>1.0.0</version>
+    <title>Clymate Scaffolding for Sass</title>
+    <authors>Clyde D'Souza</authors>
+    <owners>clydedsouza</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <repository url="https://github.com/ClydeDz/clymate-scaffolding-sass-nuget" />
+    <projectUrl>https://www.placeholder.com</projectUrl>
+    <iconUrl>https://via.placeholder.com/24.png</iconUrl>
+    <description>Placeholder</description>
+    <summary>Placeholder</summary>
+    <releaseNotes>Placeholder</releaseNotes>
+    <copyright>(c) 2019 Clyde D'Souza</copyright>
+    <language>en-us</language>
+    <tags>css js less sass scss mobile-first responsive front-end framework web scaffolding clymate</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+</package>
