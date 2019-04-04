@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>Clymate.Scaffolding.Sass</id>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <title>Clymate Scaffolding for Sass</title>
     <authors>Clyde D'Souza</authors>
     <owners>clydedsouza</owners>
@@ -11,7 +11,7 @@
     <repository url="https://github.com/ClydeDz/clymate-scaffolding-sass-nuget" />
     <projectUrl>https://github.com/ClydeDz/clymate-scaffolding-sass-nuget/wiki</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/ClydeDz/clymate-scaffolding-sass-nuget/master/logo.png</iconUrl>
-    <description>Adds basic Sass scaffolding to your project.</description>
+    <description>Adds basic Sass scaffolding to your project. Use this scaffolding along with a sass compiler of your choice.</description>
     <summary>Adds basic Sass scaffolding to your project.</summary>
     <releaseNotes>Read detailed release notes here: https://github.com/ClydeDz/clymate-scaffolding-sass-nuget/wiki#release-notes </releaseNotes>
     <copyright>(c) 2019 Clyde D'Souza</copyright>
