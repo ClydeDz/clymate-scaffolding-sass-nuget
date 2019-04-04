@@ -12,7 +12,7 @@ PM> Install-Package Clymate.Scaffolding.Sass
 ```
   
 #### Output
-Installing this package creates a Sass scaffolding in your project like the picture below.
+Installing this package creates a Sass scaffolding in your project like the picture below.    
 ![output](https://raw.githubusercontent.com/ClydeDz/clymate-scaffolding-sass-nuget/master/output.png)  
 
 ## Release notes
