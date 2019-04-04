@@ -2,21 +2,21 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>Clymate.Scaffolding.Sass</id>
-    <version>1.0.0</version>
+    <version>0.0.1</version>
     <title>Clymate Scaffolding for Sass</title>
     <authors>Clyde D'Souza</authors>
     <owners>clydedsouza</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <repository url="https://github.com/ClydeDz/clymate-scaffolding-sass-nuget" />
-    <projectUrl>https://www.placeholder.com</projectUrl>
-    <iconUrl>https://via.placeholder.com/24.png</iconUrl>
-    <description>Placeholder</description>
-    <summary>Placeholder</summary>
-    <releaseNotes>Placeholder</releaseNotes>
+    <projectUrl>https://github.com/ClydeDz/clymate-scaffolding-sass-nuget/wiki</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/ClydeDz/clymate-scaffolding-sass-nuget/master/logo.png</iconUrl>
+    <description>Adds basic Sass scaffolding to your project.</description>
+    <summary>Adds basic Sass scaffolding to your project.</summary>
+    <releaseNotes>Read detailed release notes here: https://github.com/ClydeDz/clymate-scaffolding-sass-nuget/wiki#release-notes </releaseNotes>
     <copyright>(c) 2019 Clyde D'Souza</copyright>
     <language>en-us</language>
-    <tags>css js less sass scss mobile-first responsive front-end framework web scaffolding clymate</tags>
+    <tags>css js less sass scss mobile-first responsive front-end framework web scaffolding clymate preprocessor modular webcompiler</tags>
     <dependencies>
       <group targetFramework=".NETStandard2.0" />
     </dependencies>
