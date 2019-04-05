@@ -66,6 +66,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\sass\modules\_base.scss" />
+    <Content Include="Content\sass\main.scss" />
+    <Content Include="Content\sass\global\_variables.scss" />
+    <Content Include="Content\sass\global\_colors.scss" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
