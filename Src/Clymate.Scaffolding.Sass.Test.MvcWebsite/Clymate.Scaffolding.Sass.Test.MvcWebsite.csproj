@@ -160,10 +160,6 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Content\sass\modules\_base.scss" />
-    <Content Include="Content\sass\main.scss" />
-    <Content Include="Content\sass\global\_variables.scss" />
-    <Content Include="Content\sass\global\_colors.scss" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
