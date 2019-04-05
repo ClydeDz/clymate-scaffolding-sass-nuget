@@ -168,10 +168,6 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
-    <Content Include="Content\sass\modules\_base.scss" />
-    <Content Include="Content\sass\main.scss" />
-    <Content Include="Content\sass\global\_variables.scss" />
-    <Content Include="Content\sass\global\_colors.scss" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
